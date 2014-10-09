@@ -1,0 +1,5 @@
+C:\projects\CodeAdventure\CodeAdventure.Core\obj\Debug\CodeAdventure.Core.csprojResolveAssemblyReference.cache
+C:\projects\CodeAdventure\CodeAdventure.Core\bin\Debug\CodeAdventure.Core.dll
+C:\projects\CodeAdventure\CodeAdventure.Core\bin\Debug\CodeAdventure.Core.pdb
+C:\projects\CodeAdventure\CodeAdventure.Core\obj\Debug\CodeAdventure.Core.dll
+C:\projects\CodeAdventure\CodeAdventure.Core\obj\Debug\CodeAdventure.Core.pdb

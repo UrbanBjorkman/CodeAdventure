@@ -1,0 +1,8 @@
+C:\projects\CodeAdventure\CodeAdventure\bin\Debug\CodeAdventure.exe.config
+C:\projects\CodeAdventure\CodeAdventure\bin\Debug\CodeAdventure.exe
+C:\projects\CodeAdventure\CodeAdventure\bin\Debug\CodeAdventure.pdb
+C:\projects\CodeAdventure\CodeAdventure\bin\Debug\CodeAdventure.Core.dll
+C:\projects\CodeAdventure\CodeAdventure\bin\Debug\CodeAdventure.Core.pdb
+C:\projects\CodeAdventure\CodeAdventure\obj\Debug\CodeAdventure.UI.Console.csprojResolveAssemblyReference.cache
+C:\projects\CodeAdventure\CodeAdventure\obj\Debug\CodeAdventure.exe
+C:\projects\CodeAdventure\CodeAdventure\obj\Debug\CodeAdventure.pdb

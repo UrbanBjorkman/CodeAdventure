@@ -45,7 +45,7 @@
     <Compile Include="Referee.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\CodeAdventure.Core\CodeAdventure.Core.csproj">
+    <ProjectReference Include="..\CodeAdventure.Core\CodeAdventure.Core.csproj">
       <Project>{abe8c252-208e-42f5-abbf-1627ba221421}</Project>
       <Name>CodeAdventure.Core</Name>
     </ProjectReference>

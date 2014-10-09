@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAdventure.UI.Console", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAdventure.Core", "..\CodeAdventure.Core\CodeAdventure.Core.csproj", "{ABE8C252-208E-42F5-ABBF-1627BA221421}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAdventure.GameEngine", "CodeAdventure.GameEngine\CodeAdventure.GameEngine.csproj", "{C7074679-BAAE-47FA-AF06-C03861D9A7DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAdventure.GameEngine", "..\CodeAdventure.GameEngine\CodeAdventure.GameEngine.csproj", "{C7074679-BAAE-47FA-AF06-C03861D9A7DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAdventure.Players", "CodeAdventure.Players\CodeAdventure.Players.csproj", "{7C7E8160-0F68-46A6-845F-D8107BE0F4FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAdventure.Players", "..\CodeAdventure.Players\CodeAdventure.Players.csproj", "{7C7E8160-0F68-46A6-845F-D8107BE0F4FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
